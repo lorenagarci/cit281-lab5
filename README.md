@@ -8,8 +8,14 @@ I expanded the application by adding an array of student objects to the server a
 Throughout this lab, I gained exposure and experience working with Postman, creating server applications with Node.js and Fastify, and effectively testing server routes using Postman's features.
 
 This is the image submissions to the project: 
+
+ALL STUDENTS OUTPUT: 
 <img src="lab-05/AllStudents.png" alt="Image">
+
+STUDENT POST OUTPUT:
 <img src="lab-05/StudentPost.png" alt="Image">
+
+SINGLE STUDENT OUTPUT:
 <img src="lab-05/SingleStudent.png" alt="Image">
 
 
